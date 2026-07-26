@@ -1,0 +1,13 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-06-11
+
+[language.reasonml]
+language_name = ReasonML
+language_short_name = ReasonML
+monaco_language = reason
+default_filename = component.re
+language_file_extensions = .re,.rei
