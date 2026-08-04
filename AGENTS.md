@@ -1,4 +1,4 @@
-# Agent instructions — intentdiff-reasonml-parser
+# Agent instructions — intentumdiff-reasonml-parser
 
 The reasonml parser plugin: a Wasm component emitting deterministic SemanticNode trees.
 
@@ -14,4 +14,4 @@ cargo build --release --target wasm32-wasip2
 cargo test
 ```
 
-Guide: https://github.com/buchochelliq-labs/intentdiff-plugin-sdk/blob/main/docs/PLUGIN_GUIDE.md
+Guide: https://github.com/buchochelliq-labs/intentumdiff-plugin-sdk/blob/main/docs/PLUGIN_GUIDE.md
